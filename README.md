@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Basic Todo List with Create React App
+This is basic Todo list that has been made with react. This can help beginer get statred.
+
+## Intro
+![Alt text](image.png)
+
+## Editing a task
+![Alt text](image-2.png)
+
+## Markign a todo as complete
+![Alt text](image-3.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
